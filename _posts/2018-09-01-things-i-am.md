@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Things I am ... This Week"
-date:   2018-08-30 00:02:59 +0300
+title:  "Things I am ... This Week (2018-09-01)"
+date:   2018-09-01 00:02:59 +0300
 categories: things_i_am
 ---
 
