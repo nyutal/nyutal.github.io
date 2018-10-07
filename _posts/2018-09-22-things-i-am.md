@@ -21,7 +21,7 @@ categories: things_i_am
 
 ## Watching  
 
-- [Lecture 18 | Machine Learning (Stanford)][andrew]  
+- [Lecture 18 \| Machine Learning (Stanford)][andrew]  
 - [Bob Martin SOLID Principles of Object Oriented and Agile Design][uncle]
 
 ## Listening  

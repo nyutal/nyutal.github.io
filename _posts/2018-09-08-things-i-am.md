@@ -7,20 +7,25 @@ categories: things_i_am
 
 ## Reading 
 
-### Blogs
-- [Hanabi Card Game][hanabi]  
+### Blogs  
+
+- [Hanabi Card Game][hanabi]
 - [There is only one test][one_test]  
-Interesting blog post discuss about the advantage of simulating hypothesis tests instead of performing analysis  
+Interesting blog post which discuss about the advantage of simulating hypothesis tests instead of performing known tests.
 - [Ptitim - Rebuild Your Kitchen][ptitim]  
 Me and my wife are building our home. That hebrew food blog writer dedicated a nice post for his kitchen renovation
 
+
 ## Watching
+  
 - [Stanford CS 229 - Lecture 17][cs229]  
 Continue with reinforcment learning, cover continues state MDPs, discretization and policy/value iteration.
 - [Antipodal Points - Numberphile][antipodal]  
 Nice explenation on Antipodal points and a proof of why cutting A perfect sphere into two parts with the same area must split between Antipodal points.
 
+
 ## Listening
+
 - [Data Framed - The Fight Against Cancer (with Sandy Griffith)][dataframe1]
 - [Data Framed - Robust Data Science with Statistical Modeling (with Michael Betancourt)][dataframe2]
 - [Talk Python To Me - Lektor: Beautiful websites out of flat files][talkp]
