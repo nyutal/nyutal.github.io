@@ -5,7 +5,9 @@ date:   2018-09-15 00:00:00 +0300
 categories: things_i_am
 ---
 
-## Reading 
+# Thins I am ... This Week
+
+## Reading  
 
 ### Blogs
 - [Agile Analytics][agile]  
@@ -14,6 +16,7 @@ This 3 parts blog post describe the pros and cons of doing data science using ag
 ## Watching
 
 ## Listening
+
 - [Data Framed - Online Experiments at Booking.com (with Lukas Vermeer)][df1]  
 Very interesting discussion on how experiments done at Booking.com.  
 As follow-up, marked [Many analysts, one dataset][many] paper for future reading. (Before I noticed its length is 79 pages :()
