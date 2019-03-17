@@ -34,7 +34,7 @@ categories: things_i_am
 - [Deeper Than Abstractions (Let’s Dive into Source Code!!) / Netta Bondy][rev2]
 - [Alex Terier - Developing your sound][at1]
 - [Lean Startup in Action / Nissim Tapiro][rev3]
-- [Fifth Root Trick - Numberphile][np1]
+- [Fifth Root Trick - Numberphile][np1]`
 
 ## Listening  
 
