@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Things I am ... This Week (2018-10-14)"
-date:   2018-10-14 00:00:00 +0300
+title:  "Things I am ... This Week (2019-06-16)"
+date:   2019-06-16 00:00:00 +0300
 categories: things_i_am
 ---
 
@@ -41,7 +41,7 @@ categories: things_i_am
 
 [mlm1]:https://machinelearningmastery.com/object-recognition-with-deep-learning/
 [ff1]:https://blog.fastforwardlabs.com/2019/05/22/metalearners-learning-how-to-learn.html
-[mp1]|:https://blog.acolyer.org/2019/05/24/zippads/
+[mp1]:https://blog.acolyer.org/2019/05/24/zippads/
 [nb1]:https://nedbatchelder.com//blog/201905/why_python_class_syntax_should_be_different.html
 [yegor1]:https://www.yegor256.com/2019/05/28/trust-or-not.html
 [sb1]:https://sebastianraschka.com/blog/2019/student-gallery-1.html
