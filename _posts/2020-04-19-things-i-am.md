@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Things I am ... This Week (2020-04-19)"
-date:   2020-04-19:00:00 +0300
+date:   2020-04-19 00:00:00 +0300
 categories: things_i_am
 ---
 
