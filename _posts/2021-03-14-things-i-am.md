@@ -25,9 +25,9 @@ categories: things_i_am
 
 ## Watching
 
-- [StitchFix algo hour - Modern Time Series Analysis With STUMPY | Sean Law][st1]
+- [StitchFix algo hour - Modern Time Series Analysis With STUMPY - Sean Law][st1]
 
-## Listeningx
+## Listening
 
 [mlm1]:https://machinelearningmastery.com/optimize-regression-models/
 [mlm2]:https://machinelearningmastery.com/visualization-for-function-optimization-in-python/

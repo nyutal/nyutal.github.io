@@ -25,7 +25,7 @@ categories: things_i_am
 
 - [Peter Fader, Wharton - New prespective on CLV and e-commerce buying patterns][lt1]
 
-## Listeningx
+## Listening
 
 [mlm1]:https://machinelearningmastery.com/simulated-annealing-from-scratch-in-python/
 [gg1]:http://gregorygundersen.com/blog/2021/02/16/standard-error/
