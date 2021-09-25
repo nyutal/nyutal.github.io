@@ -19,7 +19,7 @@ categories: things_i_am
 
 ## Watching
 
-## Listeningx
+## Listening
 
 [gl1]:https://ai.googleblog.com/2021/02/the-technology-behind-cinematic-photos.html
 [cc1]:https://codecapsule.com/2021/03/03/coach-or-mentor-what-is-the-difference-and-how-to-choose/
